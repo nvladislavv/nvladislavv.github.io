@@ -16,8 +16,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.11.2022 16:01" heading="0" copyright="" source="" info="" title="" tags="street" longitude="" author="" nodeid="node1"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="163.7/11.4/90.0" pan="-96.84" url="{node2}" title="" tilt="0.71" skinid="ht_node" id="Point01"/>
     </hotspots>
@@ -42,8 +42,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.11.2022 16:14" heading="0" copyright="" source="" info="" title="" tags="street" longitude="" author="" nodeid="node2"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="167.3/11.9/90.0" pan="-288.98" url="{node1}" title="" tilt="-1.57" skinid="ht_node" id="Point02"/>
       <hotspot description="" target="-33.9/4.0/90.0" pan="-196.78" url="{node3}" title="" tilt="0.2" skinid="ht_node" id="Point03"/>
@@ -69,8 +69,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 15:14" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node3"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="70.9/-0.8/90.0" pan="-213.42" url="{node2}" title="" tilt="-1.67" skinid="ht_node" id="Point04"/>
       <hotspot description="" target="-7.6/6.9/90.0" pan="-34.39" url="{node4}" title="" tilt="-6.97" skinid="ht_node" id="Point05"/>
@@ -100,8 +100,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 13:20" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node4"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="146.8/-1.4/90.0" pan="-191.52" url="{node3}" title="" tilt="-2.71" skinid="ht_node" id="Point06"/>
       <hotspot description="" target="98.9/-3.0/90.0" pan="-278.05" url="{node5}" title="" tilt="-1.7" skinid="ht_node" id="Point07"/>
@@ -131,8 +131,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 13:31" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node5"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-98.7/0.5/90.0" pan="-83.64" url="{node4}" title="" tilt="0.17" skinid="ht_node" id="Point08"/>
       <hotspot description="" target="-59.2/-3.1/90.0" pan="-261.09" url="{node6}" title="" tilt="-3.58" skinid="ht_node" id="Point09"/>
@@ -159,8 +159,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="20.12.2022 16:00" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node6"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-83.8/0.8/90.0" pan="-183.43" url="{node5}" title="" tilt="-4.59" skinid="ht_node" id="Point10"/>
       <hotspot description="" target="-19.6/-5.2/90.0" pan="-66.99" url="{node7}" title="" tilt="-4.84" skinid="ht_node" id="Point11"/>
@@ -186,8 +186,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="20.12.2022 15:49" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node7"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="176.3/-5.4/90.0" pan="-246.52" url="{node6}" title="" tilt="-1.92" skinid="ht_node" id="Point12"/>
       <hotspot description="" target="162.4/-2.8/90.0" pan="-22.25" url="{node13}" title="" tilt="-7.38" skinid="ht_node" id="Point23"/>
@@ -213,8 +213,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.03.2023 14:36" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node13"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="121.2/0.4/90.0" pan="-37.47" url="{node7}" title="" tilt="-2.2" skinid="ht_node" id="Point24"/>
     </hotspots>
@@ -238,8 +238,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 13:30" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node8"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-83.7/1.0/90.0" pan="-336.01" url="{node5}" title="" tilt="-1.58" skinid="ht_node" id="Point14"/>
       <hotspot description="" target="147.4/0.9/90.0" pan="-156.88" url="{node9}" title="" tilt="0.18" skinid="ht_node" id="Point15"/>
@@ -264,8 +264,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 13:46" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node9"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="23.6/-1.2/90.0" pan="-32.18" url="{node8}" title="" tilt="-1.82" skinid="ht_node" id="Point16"/>
       <hotspot description="" target="0.6/10.8/120.0" pan="-121.15" url="{node10}" title="" tilt="-10.38" skinid="ht_node" id="Point17"/>
@@ -291,8 +291,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="24.12.2022 12:34" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node10"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="147.4/1.0/90.0" pan="-247.46" url="{node9}" title="" tilt="-5.15" skinid="ht_node" id="Point18"/>
     </hotspots>
@@ -316,8 +316,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 14:05" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node11"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-32.2/-1.6/90.0" pan="-28.2" url="{node9}" title="" tilt="-0.59" skinid="ht_node" id="Point20"/>
       <hotspot description="" target="-0.1/8.3/90.0" pan="-116.44" url="{node12}" title="" tilt="-8.54" skinid="ht_node" id="Point21"/>
@@ -343,8 +343,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 13:13" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node12"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="151.4/-0.3/90.0" pan="-247.41" url="{node11}" title="" tilt="-2.22" skinid="ht_node" id="Point22"/>
     </hotspots>
@@ -368,8 +368,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 14:17" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node14"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-28.3/-0.4/90.0" pan="-27.09" url="{node11}" title="" tilt="-1.47" skinid="ht_node" id="Point26"/>
       <hotspot description="" target="-2.7/5.5/90.0" pan="-111.88" url="{node15}" title="" tilt="-8.07" skinid="ht_node" id="Point27"/>
@@ -395,8 +395,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 12:43" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node15"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="152.7/0.1/90.0" pan="-248.77" url="{node14}" title="" tilt="-8.28" skinid="ht_node" id="Point28"/>
     </hotspots>
@@ -420,8 +420,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 15:10" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node16"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-27.1/-1.4/90.0" pan="-146" url="{node14}" title="" tilt="0" skinid="ht_node" id="Point30"/>
       <hotspot description="" target="11.4/1.0/90.0" pan="-238.32" url="{node17}" title="" tilt="-8.77" skinid="ht_node" id="Point31"/>
@@ -447,8 +447,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 13:00" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node17"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="34.5/-8.7/90.0" pan="-228.87" url="{node16}" title="" tilt="-7.62" skinid="ht_node" id="Point32"/>
     </hotspots>
@@ -472,8 +472,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="27.12.2022 15:22" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node18"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-146.0/0.0/90.0" pan="-300.4" url="{node16}" title="" tilt="-5.98" skinid="ht_node" id="Point34"/>
       <hotspot description="" target="-61.4/1.1/90.0" pan="-212.12" url="{node19}" title="" tilt="-11.55" skinid="ht_node" id="Point36"/>
@@ -499,8 +499,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:41" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node19"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="60.7/0.1/90.0" pan="-272.04" url="{node18}" title="" tilt="-4.72" skinid="ht_node" id="Point37"/>
     </hotspots>
@@ -524,8 +524,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:39" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node20"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="60.7/-0.0/90.0" pan="-161.52" url="{node18}" title="" tilt="-1.88" skinid="ht_node" id="Point39"/>
     </hotspots>
@@ -549,8 +549,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:32" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node21"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <polyhotspot description="" target="171.0/-2.5/90.0" url="{node4}" title="" id="Poly01">
         <polystring>-47.37/-36.31|-47.66/-36.19|-47.91/-36.11|-48.21/-36.14|-48.54/-36.19|-48.85/-36.31|-49.1/-36.48|-49.31/-36.71|-49.32/-37.01|-49.22/-37.25|-49.07/-37.47|-48.74/-37.67|-48.22/-37.77|-47.83/-37.77|-47.41/-37.61|-47.13/-37.41|-46.96/-37.17|-46.89/-36.87|-46.98/-36.59|-47.15/-36.43</polystring>
@@ -610,8 +610,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 15:03" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node22"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-142.0/-20.7/90.0" pan="-249.86" url="{node21}" title="" tilt="-2.45" skinid="ht_node" id="Point42"/>
       <hotspot description="" target="170.7/-2.2/90.0" pan="-301.94" url="{node4}" title="" tilt="-3" skinid="ht_node" id="Point43"/>
@@ -637,8 +637,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:22" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node23"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="110.7/-2.0/90.0" pan="-188.55" url="{node4}" title="" tilt="-5.11" skinid="ht_node" id="Point46"/>
       <hotspot description="" target="-27.3/0.4/90.0" pan="-8.12" url="{node26}" title="" tilt="1.6" skinid="ht_node" id="Point55"/>
@@ -664,8 +664,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 13:41" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node128"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="151.4/-4.3/90.0" pan="-273.86" url="{node3}" title="" tilt="-8.32" skinid="ht_node" id="Point270"/>
       <hotspot description="" target="-169.2/-3.7/90.0" pan="-63.45" url="{node24}" title="" tilt="-1" skinid="ht_node" id="Point271"/>
@@ -718,8 +718,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 13:01" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node24"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-33.8/4.5/90.0" pan="-295.84" url="{node128}" title="" tilt="0.5" skinid="ht_node" id="Point48"/>
       <hotspot description="" target="33.5/3.6/90.0" pan="-188.73" url="{node25}" title="" tilt="-3.28" skinid="ht_node" id="Point48"/>
@@ -746,8 +746,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="06.03.2023 15:05" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node25"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="61.3/0.4/90.0" pan="-250.47" url="{node24}" title="" tilt="-2.81" skinid="ht_node" id="Point51"/>
       <hotspot description="" target="61.3/0.4/90.0" pan="-215.45" url="{node24}" title="" tilt="-2.4" skinid="ht_node" id="Point50"/>
@@ -772,8 +772,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:24" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node26"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="170.9/-3.2/90.0" pan="-207.54" url="{node23}" title="" tilt="-1.18" skinid="ht_node" id="Point56"/>
       <hotspot description="" target="53.1/0.1/90.0" pan="-27.35" url="{node27}" title="" tilt="0.39" skinid="ht_node" id="Point56"/>
@@ -798,8 +798,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:26" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node27"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="152.4/-0.9/90.0" pan="-126.79" url="{node26}" title="" tilt="-0.77" skinid="ht_node" id="Point57"/>
       <hotspot description="" target="46.4/-0.0/90.0" pan="-306.85" url="{node28}" title="" tilt="0.22" skinid="ht_node" id="Point58"/>
@@ -824,8 +824,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:28" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node28"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-126.8/-0.8/90.0" pan="-133.71" url="{node27}" title="" tilt="-0.33" skinid="ht_node" id="Point59"/>
       <hotspot description="" target="150.7/-2.7/90.0" pan="-45.23" url="{node29}" title="" tilt="-13.95" skinid="ht_node" id="Point60"/>
@@ -851,8 +851,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:43" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node29"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="46.4/-0.1/90.0" pan="-116.89" url="{node28}" title="" tilt="-6.15" skinid="ht_node" id="Point61"/>
     </hotspots>
@@ -876,8 +876,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:30" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node30"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-133.7/-0.2/90.0" pan="-313.94" url="{node28}" title="" tilt="-0.47" skinid="ht_node" id="Point63"/>
       <hotspot description="" target="-135.1/-0.6/90.0" pan="-134.3" url="{node31}" title="" tilt="0.16" skinid="ht_node" id="Point64"/>
@@ -903,8 +903,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:32" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node31"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="46.1/-0.5/90.0" pan="-314.79" url="{node30}" title="" tilt="0.36" skinid="ht_node" id="Point65"/>
       <hotspot description="" target="71.6/-3.7/90.0" pan="-233.13" url="{node32}" title="" tilt="-11.9" skinid="ht_node" id="Point66"/>
@@ -930,8 +930,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:22" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node32"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-135.1/-0.6/90.0" pan="-171.75" url="{node31}" title="" tilt="-8.93" skinid="ht_node" id="Point67"/>
     </hotspots>
@@ -955,8 +955,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:34" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node33"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="45.2/0.4/90.0" pan="-298.13" url="{node31}" title="" tilt="0.09" skinid="ht_node" id="Point69"/>
       <hotspot description="" target="116.2/-1.8/90.0" pan="-213.14" url="{node34}" title="" tilt="-13.16" skinid="ht_node" id="Point70"/>
@@ -983,8 +983,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="26.12.2022 12:43" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node34"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-118.3/-0.4/90.0" pan="-141.93" url="{node33}" title="" tilt="-7.11" skinid="ht_node" id="Point71"/>
     </hotspots>
@@ -1008,8 +1008,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 15:35" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node35"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="61.8/0.2/90.0" pan="-313.48" url="{node33}" title="" tilt="-0.1" skinid="ht_node" id="Point73"/>
       <hotspot description="" target="-0.4/-4.5/90.0" pan="-225.77" url="{node36}" title="" tilt="-10.63" skinid="ht_node" id="Point74"/>
@@ -1036,8 +1036,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.03.2023 14:10" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node36"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-133.8/0.1/90.0" pan="-85.49" url="{node35}" title="" tilt="-7.34" skinid="ht_node" id="Point75"/>
     </hotspots>
@@ -1061,8 +1061,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:07" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node37"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="46.5/-0.0/90.0" pan="-302.5" url="{node35}" title="" tilt="-0.51" skinid="ht_node" id="Point77"/>
       <hotspot description="" target="-153.8/-2.7/120.0" pan="-196.84" url="{node38}" title="" tilt="-11.52" skinid="ht_node" id="Point77"/>
@@ -1089,8 +1089,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.01.2023 09:14" heading="0" copyright="" source="" info="" title="" tags="1th_floor" longitude="" author="" nodeid="node38"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="57.5/-0.5/90.0" pan="-52.33" url="{node37}" title="" tilt="-7.7" skinid="ht_node" id="Point78"/>
     </hotspots>
@@ -1114,8 +1114,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:41" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node39"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="172.1/-2.5/90.0" pan="-303.3" url="{node4}" title="" tilt="-23.57" skinid="ht_node" id="Point81"/>
       <hotspot description="" target="172.1/-2.5/90.0" pan="-14.33" url="{node4}" title="" tilt="-21.89" skinid="ht_node" id="Point80"/>
@@ -1144,8 +1144,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:06" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node40"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="46.0/-0.4/90.0" pan="-345.89" url="{node30}" title="" tilt="-21.4" skinid="ht_node" id="Point83"/>
       <hotspot description="" target="131.3/-2.2/90.0" pan="-0.06" url="{node48}" title="" tilt="7.09" skinid="ht_node" id="Point121"/>
@@ -1170,8 +1170,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:10" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node41"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="57.5/-0.5/90.0" pan="-195.57" url="{node37}" title="" tilt="-17.44" skinid="ht_node" id="Point86"/>
       <hotspot description="" target="63.1/-0.2/90.0" pan="-209.24" url="{node54}" title="" tilt="9.64" skinid="ht_node" id="Point119"/>
@@ -1197,8 +1197,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="26.12.2022 10:41" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node42"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-64.8/-0.3/90.0" pan="-2.79" url="{node39}" title="" tilt="-2.91" skinid="ht_node" id="Point87"/>
     </hotspots>
@@ -1223,8 +1223,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="18.01.2023 18:09" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node43"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="22.9/-18.0/90.0" pan="-240.32" url="{node39}" title="" tilt="-1.95" skinid="ht_node" id="Point88"/>
       <hotspot description="" target="-152.4/-0.2/90.0" pan="-60.69" url="{node44}" title="" tilt="0.15" skinid="ht_node" id="Point89"/>
@@ -1250,8 +1250,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:44" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node44"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="119.5/-1.5/90.0" pan="-335.91" url="{node43}" title="" tilt="-7.81" skinid="ht_node" id="Point90"/>
       <hotspot description="" target="-15.4/2.3/90.0" pan="-53.15" url="{node46}" title="" tilt="-12.44" skinid="ht_node" id="Point93"/>
@@ -1278,8 +1278,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="19.01.2023 16:59" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node45"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-60.6/0.3/90.0" pan="-111.3" url="{node43}" title="" tilt="-8.77" skinid="ht_node" id="Point92"/>
     </hotspots>
@@ -1304,8 +1304,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.01.2023 16:38" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node46"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-152.4/-0.2/90.0" pan="-249.09" url="{node44}" title="" tilt="-2.49" skinid="ht_node" id="Point94"/>
       <hotspot description="" target="-50.6/-0.9/90.0" pan="-146.89" url="{node47}" title="" tilt="-2.68" skinid="ht_node" id="Point98"/>
@@ -1330,8 +1330,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:46" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node47"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="26.5/-1.3/90.0" pan="-231.42" url="{node44}" title="" tilt="-1.48" skinid="ht_node" id="Point96"/>
       <hotspot description="" target="-15.4/2.3/90.0" pan="-325.44" url="{node46}" title="" tilt="-12.36" skinid="ht_node" id="Point97"/>
@@ -1357,8 +1357,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:47" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node48"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="128.1/-0.2/90.0" pan="-228.6" url="{node47}" title="" tilt="-1.73" skinid="ht_node" id="Point100"/>
       <hotspot description="" target="-52.0/-0.2/90.0" pan="-48.42" url="{node51}" title="" tilt="0.83" skinid="ht_node" id="Point101"/>
@@ -1385,8 +1385,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:51" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node51"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="131.3/-2.0/90.0" pan="-233.61" url="{node48}" title="" tilt="-2.12" skinid="ht_node" id="Point104"/>
       <hotspot description="" target="-98.2/2.6/90.0" pan="-320.1" url="{node52}" title="" tilt="-18.61" skinid="ht_node" id="Poinе105"/>
@@ -1413,8 +1413,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.12.2022 19:09" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node52"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-53.5/1.4/90.0" pan="-329.29" url="{node51}" title="" tilt="-2.98" skinid="ht_node" id="Point106"/>
       <hotspot description="" target="44.0/-0.3/90.0" pan="-213.55" url="{node53}" title="" tilt="-2.37" skinid="ht_node" id="Point110"/>
@@ -1439,8 +1439,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:53" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node53"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="126.4/-2.0/90.0" pan="-136.01" url="{node51}" title="" tilt="-0.36" skinid="ht_node" id="Point108"/>
       <hotspot description="" target="-98.2/2.6/90.0" pan="-230.56" url="{node52}" title="" tilt="-14.13" skinid="ht_node" id="Point109"/>
@@ -1466,8 +1466,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="05.01.2023 14:55" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node49"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="131.4/-1.9/90.0" pan="-231.95" url="{node53}" title="" tilt="-0.49" skinid="ht_node" id="Point102"/>
       <hotspot description="" target="24.4/-5.8/90.0" pan="-323.77" url="{node50}" title="" tilt="-12.54" skinid="ht_node" id="Point103"/>
@@ -1494,8 +1494,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.01.2023 16:59" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node50"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-52.2/-0.2/90.0" pan="-260.34" url="{node49}" title="" tilt="-9.18" skinid="ht_node" id="Poinе104"/>
     </hotspots>
@@ -1519,8 +1519,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:11" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node54"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="128.1/-0.4/90.0" pan="-296.74" url="{node49}" title="" tilt="-0.24" skinid="ht_node" id="Point113"/>
       <hotspot description="" target="-21.4/-5.5/90.0" pan="-202.51" url="{node55}" title="" tilt="-13.11" skinid="ht_node" id="Point114"/>
@@ -1548,8 +1548,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.01.2023 09:03" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node55"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="63.2/-0.2/90.0" pan="-21.51" url="{node54}" title="" tilt="-7.81" skinid="ht_node" id="Point115"/>
       <hotspot description="" target="-167.4/-2.1/90.0" pan="-201.23" url="{node56}" title="" tilt="-6.62" skinid="ht_node" id="Point116"/>
@@ -1575,8 +1575,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.01.2023 09:24" heading="0" copyright="" source="" info="" title="" tags="2th_floor" longitude="" author="" nodeid="node56"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-20.9/-7.6/90.0" pan="-318.79" url="{node55}" title="" tilt="-3.47" skinid="ht_node" id="Point117"/>
     </hotspots>
@@ -1600,8 +1600,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="06.01.2023 15:28" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node57"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-64.3/-1.9/90.0" pan="-341.48" url="{node39}" title="" tilt="-30.21" skinid="ht_node" id="Point122"/>
       <hotspot description="" target="63.3/-2.3/90.0" pan="-6.49" url="{node58}" title="" tilt="4.81" skinid="ht_node" id="Point124"/>
@@ -1627,8 +1627,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 16:22" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node58"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="18.2/-5.8/90.0" pan="-176.6" url="{node57}" title="" tilt="-26.91" skinid="ht_node" id="Point125"/>
       <hotspot description="" target="18.2/-5.8/90.0" pan="-256.37" url="{node57}" title="" tilt="-22.63" skinid="ht_node" id="Point126"/>
@@ -1657,8 +1657,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="28.12.2022 19:33" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node59"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="63.4/-2.9/90.0" pan="-25.58" url="{node58}" title="" tilt="-5.62" skinid="ht_node" id="Point128"/>
       <hotspot description="это пример" target="" pan="-132.27" url="" title="О компании" tilt="-1.71" skinid="ht_info" id="Point01"/>
@@ -1684,8 +1684,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 15:25" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node60"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="150.9/-24.4/90.0" pan="-92.15" url="{node58}" title="" tilt="-5.81" skinid="ht_node" id="Point130"/>
       <hotspot description="" target="92.1/0.7/90.0" pan="-267.8" url="{node61}" title="" tilt="-5.92" skinid="ht_node" id="Point131"/>
@@ -1712,8 +1712,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 15:35" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node61"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-91.5/-0.8/120.0" pan="-91.66" url="{node60}" title="" tilt="-9.87" skinid="ht_node" id="Point132"/>
       <hotspot description="" target="173.9/-0.6/90.0" pan="-172.53" url="{node62}" title="" tilt="-9.87" skinid="ht_node" id="Point133"/>
@@ -1740,13 +1740,20 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="28.12.2022 15:32" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node62"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="92.0/0.7/120.0" pan="-91.29" url="{node61}" title="" tilt="-6.49" skinid="ht_node" id="Point134"/>
-      <hotspot description="О компании" target="" pan="-171.04" url="" title="iTechArt" tilt="3.28" skinid="ht_info" id="Point01"/>
+      <hotspot description="12 апреля 2019 года на базе ВГУ им. П.М.Машерова открылась совместная лаборатория с компанией iTechArt&#xa;Компания занимается разработкой, тестированием, сервисной поддержкой программных продуктов, модернизацией и интеграцией бизнес-приложений.  Технологические направления: Mobile (iOS, Android), Web &amp; Intranet Portals (HTML5, PHP, Ruby, Python, Django), Open Source, Cloud, Enterprise Platforms (.Net, SJava, C++)" target="" pan="-196.02" url="" title="iTechArt" tilt="2.71" skinid="ht_info" id="Point01"/>
+      <polyhotspot description="" target="_blank" url="https://www.itechart.com" title="" id="Poly10">
+        <polystring>-176.48/4.04|-176.73/4.09|-176.96/4.04|-177.32/4.07|-177.32/4.84|-177.86/4.83|-180.25/4.79|-180.36/4.57|-180.36/4.31|-180.59/4.25|-181.19/4.25|-181.63/4|-181.86/3.61|-182.16/3.51|-182.43/4.04|-182.78/4.2|-183.28/4.25|-183.77/4.07|-183.97/3.79|-184.27/3.77|-184.32/4.84|-184.71/4.77|-184.85/4.52|-184.83/4.13|-184.85/4.02|-185.03/4.13|-185.47/4.18|-185.88/4.08|-186.23/3.85|-186.25/3.51|-186.32/2.73|-186.31/2.29|-186.41/2.2|-187.4/4.67|-187.76/4.74|-187.99/4.71|-189.01/2.01|-189.14/2.19|-189.1/3.34|-189.38/3.81|-189.9/4.04|-190.33/4.03|-190.43/4.69|-190.77/4.73|-191.01/4.53|-190.99/4.19|-191.3/4.11|-191.32/3.66|-191.01/3.46|-190.98/2.94|-191/2.48|-191.25/2.39|-191.29/2|-191.09/1.91|-190.61/1.94|-190.39/2.26|-190.33/2.87|-190.35/3.51|-189.88/3.42|-189.62/3.04|-189.64/2.31|-189.64/2.03|-189.48/1.94|-188.46/1.94|-188.19/2.54|-187.18/2.54|-187/2.02|-186.4/1.93|-185.74/2|-185.74/3.37|-185.47/3.63|-185.01/3.67|-184.85/3.35|-184.8/2.53|-184.8/2.02|-184.29/1.98|-184.16/2.66|-183.97/2.64|-183.84/2.23|-183.58/2.09|-183.08/1.91|-182.78/2|-182.37/2.16|-182.27/2.46|-182.07/2.73|-181.81/2.69|-181.7/2.39|-181.4/2.07|-180.92/1.98|-180.55/1.93|-180.28/2.23|-180.02/2.62|-179.84/3.01|-179.86/3.42|-180.16/3.85|-180.25/4.08|-180.04/4.27|-179.51/4.31|-179.54/2.02|-178.97/2.04|-178.94/4.33|-178.19/4.35|-177.89/4.32|-177.9/1.99|-177.24/1.99|-176.44/2.03</polystring>
+      </polyhotspot>
     </hotspots>
-    <media/>
+    <media>
+      <video tilt="2.920" fov="59.080" id="Element01" pan="-355.910" startmutedmobile="0" handcursor="0" loop="-1" pansize="10.000" nodechangekeep="0" stretch="0.990" clickmode="2" roty="7.000" mode="3" level="1.000" tiltsize="10.000" rotz="-1.000" height="720" field="90.000" rotx="2.000" ambientlevel="0.000" width="1280">
+        <source url="media/Открытие в ВГУ имени П.М.Машерова лаборатории iTechArt.mp4"/>
+      </video>
+    </media>
     <transition type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" enabled="1" zoomoutpause="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control simulatemass="1" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" lockedmouse="0" sensitivity="8" hideabout="0"/>
@@ -1766,8 +1773,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:30" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node63"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-91.4/-5.9/90.0" pan="-294.55" url="{node61}" title="" tilt="-2.04" skinid="ht_node" id="Point139"/>
       <hotspot description="" target="-146.8/-3.9/90.0" pan="-16.49" url="{node64}" title="" tilt="-16.36" skinid="ht_node" id="Point140"/>
@@ -1795,8 +1802,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="28.12.2022 20:04" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node64"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-114.3/0.6/90.0" pan="-69.1" url="{node63}" title="" tilt="-8.47" skinid="ht_node" id="Point141"/>
       <hotspot description="О компании" target="" pan="-97.73" url="" title="EPAM" tilt="5.72" skinid="ht_info" id="Point01"/>
@@ -1822,10 +1829,11 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.01.2023 16:10" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node65"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-114.2/0.7/120.0" pan="-66.84" url="{node63}" title="" tilt="-8.01" skinid="ht_node" id="Point144"/>
+      <hotspot description="О компании" target="" pan="-154.56" url="" title="309" tilt="3.26" skinid="ht_info" id="Point01"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -1848,8 +1856,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 15:46" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node66"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="65.4/-2.1/120.0" pan="-243.92" url="{node63}" title="" tilt="-0.42" skinid="ht_node" id="Point01"/>
       <hotspot description="" target="-91.5/-1.1/120.0" pan="-63.98" url="{node67}" title="" tilt="0.23" skinid="ht_node" id="Point146"/>
@@ -1875,8 +1883,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 16:29" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node67"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="116.1/-0.6/120.0" pan="-271.31" url="{node66}" title="" tilt="0.93" skinid="ht_node" id="Point148"/>
       <hotspot description="" target="68.1/-2.5/90.0" pan="-195.07" url="{node68}" title="" tilt="-11.23" skinid="ht_node" id="Point149"/>
@@ -1903,10 +1911,10 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.01.2023 18:48" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node68"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
-      <hotspot description="О компании" target="" pan="-294.41" url="" title="Innowise" tilt="-2.62" skinid="ht_info" id="Point01"/>
+      <hotspot description="23 октября 2020 года на базе ВГУ им. П.М.Машерова открылась совместная лаборатория с компанией Innowise Group.&#xa;Основные технологичекие направления компании:Java, React, Angular, Vue.js, Node.js, .Net, PHP, iOS, Android, 2D/3D-дизайн, AR/VR/MR-разработка, BA, QA, QA Automation.&#xa;Разработка программного обеспечения для: медицины, финансовой сферы образования, спорт,туризм, автомобильная отрасль.&#xa;" target="" pan="-294.41" url="" title="Innowise" tilt="-2.62" skinid="ht_info" id="Point01"/>
       <hotspot description="" target="-91.5/-1.2/120.0" pan="-198.1" url="{node67}" title="" tilt="-0.44" skinid="ht_node" id="Point149"/>
     </hotspots>
     <media/>
@@ -1930,8 +1938,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 16:39" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node69"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="116.0/-0.3/90.0" pan="-93.34" url="{node66}" title="" tilt="0.79" skinid="ht_node" id="Point151"/>
       <hotspot description="" target="100.5/-1.8/90.0" pan="-273.49" url="{node70}" title="" tilt="-0.82" skinid="ht_node" id="Point152"/>
@@ -1957,8 +1965,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 16:46" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node70"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-93.4/0.8/90.0" pan="-79.34" url="{node69}" title="" tilt="1.7" skinid="ht_node" id="Point153"/>
       <hotspot description="" target="-64.0/0.6/90.0" pan="-259.51" url="{node71}" title="" tilt="-1.57" skinid="ht_node" id="Point153"/>
@@ -1983,8 +1991,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="17.01.2023 17:28" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node71"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-79.3/1.7/90.0" pan="-243.8" url="{node70}" title="" tilt="-1.13" skinid="ht_node" id="Point154"/>
       <hotspot description="" target="-46.3/1.3/90.0" pan="-154.09" url="{node72}" title="" tilt="-1.05" skinid="ht_node" id="Point155"/>
@@ -2013,8 +2021,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="30.12.2022 16:19" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node72"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-64.0/0.4/90.0" pan="-229.42" url="{node71}" title="" tilt="-6.32" skinid="ht_node" id="Point156"/>
     </hotspots>
@@ -2039,8 +2047,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="14.01.2023 16:53" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node73"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="116.2/-1.1/90.0" pan="-255.29" url="{node71}" title="" tilt="0.05" skinid="ht_node" id="Point159"/>
       <hotspot description="" target="-133.7/-4.9/90.0" pan="-232.12" url="{node74}" title="" tilt="-5.18" skinid="ht_node" id="Point160"/>
@@ -2067,10 +2075,11 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="28.12.2022 20:21" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node74"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-75.4/-0.2/90.0" pan="-44.04" url="{node73}" title="" tilt="-8.35" skinid="ht_node" id="Point161"/>
+      <hotspot description="О компании" target="" pan="-141.8" url="" title="белорусско-индийский учебный центр в области информационных и коммуникационных технологий им. Раджива Ганди" tilt="-0.05" skinid="ht_info" id="Point01"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -2093,8 +2102,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.03.2023 12:09" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node75"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="104.7/-0.1/90.0" pan="-46.98" url="{node73}" title="" tilt="0.05" skinid="ht_node" id="Point164"/>
       <hotspot description="" target="-68.4/-1.3/120.0" pan="-227.25" url="{node76}" title="" tilt="-0.26" skinid="ht_node" id="Point165"/>
@@ -2119,8 +2128,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:40" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node76"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-47.0/0.1/90.0" pan="-247.67" url="{node75}" title="" tilt="0.74" skinid="ht_node" id="Point166"/>
       <hotspot description="" target="0.4/-1.9/90.0" pan="-169.76" url="{node77}" title="" tilt="-6.63" skinid="ht_node" id="Point168"/>
@@ -2147,11 +2156,11 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="28.12.2022 19:04" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node77"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-68.4/-1.7/120.0" pan="-281.36" url="{node76}" title="" tilt="-5.8" skinid="ht_node" id="Point169"/>
-      <hotspot description="О компании" target="" pan="-7.98" url="" title="LACIT" tilt="3.17" skinid="ht_info" id="Point01"/>
+      <hotspot description="5 марта 2020 года на базе ВГУ им. П.М.Машерова открылась совместная лаборатория с компанией Lacit.&#xa;Компания Lacit специализируется на постороении и оптимизации информационных систем предприятий, на автоматизации и роботизации производственных процессов" target="" pan="-9.01" url="" title="LACIT" tilt="-2.04" skinid="ht_info" id="Point01"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" enabled="1" zoomoutpause="1"/>
@@ -2173,8 +2182,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.03.2023 12:10" heading="0" copyright="" source="" info="" title="" tags="3th_floor" longitude="" author="" nodeid="node78"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="112.3/0.8/90.0" pan="-204.78" url="{node76}" title="" tilt="-0.42" skinid="ht_node" id="Point171"/>
       <hotspot description="" target="166.4/-5.2/90.0" pan="-272.77" url="{node79}" title="" tilt="-17.98" skinid="ht_node" id="Point172"/>
@@ -2200,8 +2209,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:13" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node79"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="157.2/-8.5/90.0" pan="-190.19" url="{node54}" title="" tilt="-21.02" skinid="ht_node" id="Point174"/>
       <hotspot description="" target="155.2/-0.4/90.0" pan="-205.38" url="{node78}" title="" tilt="9.54" skinid="ht_node" id="Point175"/>
@@ -2226,8 +2235,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="09.01.2023 17:04" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node80"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="131.2/-2.5/90.0" pan="-347.27" url="{node48}" title="" tilt="-21.37" skinid="ht_node" id="Point178"/>
       <hotspot description="" target="116.1/-1.1/120.0" pan="-0.84" url="{node71}" title="" tilt="8.23" skinid="ht_node" id="Point179"/>
@@ -2252,8 +2261,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node81"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="63.3/-1.4/90.0" pan="-349.61" url="{node58}" title="" tilt="-26.65" skinid="ht_node" id="Point183"/>
       <hotspot description="" target="81.0/-2.5/90.0" pan="-14.48" url="{node82}" title="" tilt="3.92" skinid="ht_node" id="Point183"/>
@@ -2279,8 +2288,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node82"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="12.9/-2.2/90.0" pan="-143.28" url="{node81}" title="" tilt="-26.19" skinid="ht_node" id="Point186"/>
       <hotspot description="" target="12.9/-2.2/90.0" pan="-233.49" url="{node81}" title="" tilt="-25.16" skinid="ht_node" id="Point185"/>
@@ -2307,8 +2316,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="04.03.2023 12:11" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node83"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="178.2/-9.4/90.0" pan="-294.63" url="{node84}" title="" tilt="-3.85" skinid="ht_node" id="Point192"/>
       <hotspot description="" target="-139.3/1.1/90.0" pan="-206.92" url="{node87}" title="" tilt="-6.58" skinid="ht_node" id="Point200"/>
@@ -2333,8 +2342,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node84"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="152.0/-5.5/90.0" pan="-276.09" url="{node83}" title="" tilt="-4.89" skinid="ht_node" id="Point193"/>
       <hotspot description="" target="149.8/-5.4/90.0" pan="-182.08" url="{node85}" title="" tilt="-9.1" skinid="ht_node" id="Point195"/>
@@ -2361,8 +2370,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 14:44" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node85"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="80.3/-2.7/90.0" pan="-42.43" url="{node84}" title="" tilt="-9.36" skinid="ht_node" id="Point196"/>
       <hotspot description="" target="98.6/1.9/90.0" pan="-192.3" url="{node86}" title="" tilt="-4.09" skinid="ht_node" id="Point198"/>
@@ -2388,8 +2397,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 14:54" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node86"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-43.3/-8.0/90.0" pan="-0.99" url="{node85}" title="" tilt="-4.3" skinid="ht_node" id="Point199"/>
     </hotspots>
@@ -2413,8 +2422,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node87"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-23.7/-0.2/90.0" pan="-318.49" url="{node83}" title="" tilt="-5.12" skinid="ht_node" id="Point201"/>
       <hotspot description="" target="-135.7/-5.1/90.0" pan="-41.55" url="{node88}" title="" tilt="-17.84" skinid="ht_node" id="Point202"/>
@@ -2441,8 +2450,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="10.03.2023 09:57" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node88"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-139.2/1.0/90.0" pan="-69.8" url="{node87}" title="" tilt="-6.23" skinid="ht_node" id="Point202"/>
       <hotspot description="О аудитории" target="" pan="-86.42" url="" title="406" tilt="10.15" skinid="ht_info" id="Point01"/>
@@ -2467,8 +2476,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node89"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="41.5/-3.2/90.0" pan="-58.43" url="{node87}" title="" tilt="-1.62" skinid="ht_node" id="Point204"/>
       <hotspot description="" target="-127.7/0.1/90.0" pan="-238.13" url="{node90}" title="" tilt="1.15" skinid="ht_node" id="Point205"/>
@@ -2495,8 +2504,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node90"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-58.5/-1.6/90.0" pan="-307.64" url="{node89}" title="" tilt="-0.38" skinid="ht_node" id="Point206"/>
       <hotspot description="" target="-143.0/-2.8/90.0" pan="-47.2" url="{node91}" title="" tilt="-15.89" skinid="ht_node" id="Point207"/>
@@ -2523,8 +2532,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 16:14" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node91"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-127.7/-0.0/90.0" pan="-65.26" url="{node90}" title="" tilt="-3.88" skinid="ht_node" id="Point208"/>
       <hotspot description="О аудитории" target="" pan="-83.57" url="" title="422" tilt="-3.17" skinid="ht_info" id="Point01"/>
@@ -2549,8 +2558,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node92"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="52.3/-0.3/120.0" pan="-234.61" url="{node90}" title="" tilt="-0.49" skinid="ht_node" id="Point209"/>
       <hotspot description="" target="-128.2/-4.5/90.0" pan="-324.61" url="{node93}" title="" tilt="-9.33" skinid="ht_node" id="Point210"/>
@@ -2577,8 +2586,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 16:03" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node93"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-54.5/0.1/90.0" pan="-63.54" url="{node92}" title="" tilt="-3.67" skinid="ht_node" id="Point211"/>
       <hotspot description="О аудитории" target="" pan="-109.08" url="" title="426" tilt="-2.87" skinid="ht_info" id="Point01"/>
@@ -2603,8 +2612,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node94"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="125.6/-0.5/120.0" pan="-136.26" url="{node92}" title="" tilt="-0.64" skinid="ht_node" id="Point213"/>
       <hotspot description="" target="-166.4/-0.1/90.0" pan="-227.19" url="{node95}" title="" tilt="-13.02" skinid="ht_node" id="Point216"/>
@@ -2631,8 +2640,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 15:20" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node95"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="43.2/0.6/90.0" pan="-88.02" url="{node94}" title="" tilt="-3.74" skinid="ht_node" id="Point217"/>
       <hotspot description="О аудитории" target="" pan="-122.87" url="" title="428" tilt="-2.38" skinid="ht_info" id="Point01"/>
@@ -2657,8 +2666,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node96"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-136.4/-0.6/90.0" pan="-137.24" url="{node94}" title="" tilt="0.57" skinid="ht_node" id="Point219"/>
       <hotspot description="" target="-158.2/-1.7/90.0" pan="-233.09" url="{node97}" title="" tilt="-10.7" skinid="ht_node" id="Point220"/>
@@ -2685,8 +2694,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 15:33" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node97"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="42.7/-0.7/90.0" pan="-17.77" url="{node96}" title="" tilt="-6.16" skinid="ht_node" id="Point221"/>
       <hotspot description="О аудитории" target="" pan="-141.98" url="" title="434" tilt="1.03" skinid="ht_info" id="Point01"/>
@@ -2711,8 +2720,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="4th_floor" longitude="" author="" nodeid="node98"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-137.3/0.6/90.0" pan="-50.94" url="{node96}" title="" tilt="-0.46" skinid="ht_node" id="Point226"/>
       <hotspot description="" target="-9.4/-0.1/120.0" pan="-124.53" url="{node100}" title="" tilt="-15.03" skinid="ht_node" id="Point227"/>
@@ -2738,8 +2747,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node99"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="121.8/1.0/90.0" pan="-326.42" url="{node89}" title="" tilt="7.1" skinid="ht_node" id="Point231"/>
       <hotspot description="" target="-64.0/0.6/90.0" pan="-312.88" url="{node71}" title="" tilt="-22.48" skinid="ht_node" id="Point232"/>
@@ -2764,8 +2773,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node100"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-51.0/-0.6/90.0" pan="-21.79" url="{node98}" title="" tilt="8.51" skinid="ht_node" id="Point228"/>
       <hotspot description="" target="155.2/-0.5/90.0" pan="-5.05" url="{node78}" title="" tilt="-19.74" skinid="ht_node" id="Point228"/>
@@ -2790,8 +2799,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="02.02.2023 10:48" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node101"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="81.5/-2.7/90.0" pan="-181.81" url="{node82}" title="" tilt="-28.15" skinid="ht_node" id="Point234"/>
       <hotspot description="" target="-131.1/-2.7/90.0" pan="-205.61" url="{node102}" title="" tilt="3.23" skinid="ht_node" id="Point235"/>
@@ -2817,8 +2826,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node102"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="178.9/-5.2/90.0" pan="-345.93" url="{node101}" title="" tilt="-26.24" skinid="ht_node" id="Point238"/>
       <hotspot description="" target="178.9/-5.2/90.0" pan="-79.48" url="{node101}" title="" tilt="-31.66" skinid="ht_node" id="Point237"/>
@@ -2845,8 +2854,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="02.02.2023 10:49" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node103"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-64.2/-0.9/90.0" pan="-339.59" url="{node104}" title="" tilt="-8.16" skinid="ht_node" id="Point238"/>
       <hotspot description="" target="-32.6/-16.7/90.0" pan="-160.13" url="{node102}" title="" tilt="-5.9" skinid="ht_node" id="Point240"/>
@@ -2872,8 +2881,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node104"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-162.1/-1.4/90.0" pan="-246.2" url="{node103}" title="" tilt="-6.04" skinid="ht_node" id="Point241"/>
       <hotspot description="" target="21.8/-0.1/90.0" pan="-341.62" url="{node105}" title="" tilt="-15.02" skinid="ht_node" id="Point243"/>
@@ -2900,8 +2909,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 16:52" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node105"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-64.3/-0.7/90.0" pan="-156.94" url="{node104}" title="" tilt="-5.97" skinid="ht_node" id="Point245"/>
       <hotspot description="О приборе" target="" pan="-200.04" url="" title="510а" tilt="-36.95" skinid="ht_info" id="Point01"/>
@@ -2928,8 +2937,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 16:38" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node106"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-55.2/-0.9/90.0" pan="-147.78" url="{node129}" title="" tilt="-6.49" skinid="ht_node" id="Point281"/>
     </hotspots>
@@ -2953,8 +2962,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node129"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="114.2/-5.3/90.0" pan="-237.86" url="{node104}" title="" tilt="-2.63" skinid="ht_node" id="Point278"/>
       <hotspot description="" target="29.6/-2.0/90.0" pan="-325.8" url="{node106}" title="" tilt="-8.03" skinid="ht_node" id="Point280"/>
@@ -2981,8 +2990,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="31.01.2023 16:28" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node108"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="О приборе" target="" pan="-293.24" url="" title="511" tilt="-54.34" skinid="ht_info" id="Point01"/>
       <hotspot description="" target="-139.3/0.0/90.0" pan="-187.83" url="{node109}" title="" tilt="-6.14" skinid="ht_node" id="Point253"/>
@@ -3007,8 +3016,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:18" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node109"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="0.0/0.0/90.0" pan="-56.94" url="{node108}" title="" tilt="-11.92" skinid="ht_node" id="Point252"/>
       <hotspot description="" target="-48.3/-0.7/90.0" pan="-139.47" url="{node111}" title="" tilt="-0.25" skinid="ht_node" id="Point255"/>
@@ -3035,8 +3044,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="10.03.2023 09:43" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node110"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="О аудитории" target="" pan="-180.58" url="" title="518" tilt="-8.82" skinid="ht_info" id="Point01"/>
       <hotspot description="" target="-47.7/-0.6/90.0" pan="-51.88" url="{node111}" title="" tilt="-5.81" skinid="ht_node" id="Point257"/>
@@ -3061,8 +3070,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="02.02.2023 10:50" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node111"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-139.3/-0.1/120.0" pan="-228.16" url="{node109}" title="" tilt="-0.44" skinid="ht_node" id="Point256"/>
       <hotspot description="" target="159.2/-7.0/90.0" pan="-324.59" url="{node110}" title="" tilt="-14.54" skinid="ht_node" id="Point257"/>
@@ -3088,8 +3097,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node112"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="131.8/-0.6/90.0" pan="-61.93" url="{node111}" title="" tilt="-5.29" skinid="ht_node" id="Point260"/>
       <hotspot description="" target="-176.6/0.1/90.0" pan="-242.52" url="{node114}" title="" tilt="-0.03" skinid="ht_node" id="Poinе262"/>
@@ -3116,8 +3125,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node114"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-62.7/-6.5/90.0" pan="-356.68" url="{node112}" title="" tilt="-0.98" skinid="ht_node" id="Point263"/>
       <hotspot description="" target="-178.5/-8.7/90.0" pan="-176.33" url="{node113}" title="" tilt="0.54" skinid="ht_node" id="Point264"/>
@@ -3142,8 +3151,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="5th_floor" longitude="" author="" nodeid="node113"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="3.2/-0.5/90.0" pan="-83.59" url="{node114}" title="" tilt="-0.66" skinid="ht_node" id="Poinе265"/>
       <hotspot description="" target="-30.4/0.6/90.0" pan="-164.66" url="{node117}" title="" tilt="-17.35" skinid="ht_node" id="Point266"/>
@@ -3169,8 +3178,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:20" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node117"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-50.9/-0.6/90.0" pan="-24.09" url="{node98}" title="" tilt="-19.89" skinid="ht_node" id="Point270"/>
       <hotspot description="" target="-83.9/-0.5/90.0" pan="-40.45" url="{node113}" title="" tilt="9.1" skinid="ht_node" id="Point271"/>
@@ -3195,8 +3204,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:19" heading="0" copyright="" source="" info="" title="" tags="spans" longitude="" author="" nodeid="node116"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-59.6/-2.5/90.0" pan="-138.41" url="{node89}" title="" tilt="-23.95" skinid="ht_node" id="Point274"/>
       <hotspot description="" target="117.6/0.0/90.0" pan="-158.83" url="{node112}" title="" tilt="10.17" skinid="ht_node" id="Point276"/>
@@ -3221,8 +3230,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node118"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-35.7/-21.6/90.0" pan="-129.67" url="{node102}" title="" tilt="-18.4" skinid="ht_node" id="Point282"/>
       <hotspot description="" target="175.1/-0.8/90.0" pan="-28.78" url="{node119}" title="" tilt="-2.3" skinid="ht_node" id="Point283"/>
@@ -3247,8 +3256,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node119"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-127.9/-17.2/90.0" pan="-4.06" url="{node118}" title="" tilt="-2.32" skinid="ht_node" id="Point284"/>
       <hotspot description="" target="18.2/-4.5/90.0" pan="-95.14" url="{node120}" title="" tilt="-26.7" skinid="ht_node" id="Point284"/>
@@ -3274,8 +3283,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node120"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="175.1/-1.5/90.0" pan="-123.25" url="{node119}" title="" tilt="-14.05" skinid="ht_node" id="Point285"/>
     </hotspots>
@@ -3299,8 +3308,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node121"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-174.7/-8.4/90.0" pan="-314.06" url="{node122}" title="" tilt="-19.87" skinid="ht_node" id="Point286"/>
       <hotspot description="Про планитарий" target="" pan="-280.84" url="" title="702" tilt="3.22" skinid="ht_info" id="Point01"/>
@@ -3327,8 +3336,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node122"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-39.3/-4.7/90.0" pan="-7.54" url="{node121}" title="" tilt="-16.95" skinid="ht_node" id="Point287"/>
       <hotspot description="О проекторе" target="" pan="-212.65" url="" title="702" tilt="-46.65" skinid="ht_info" id="Point01"/>
@@ -3353,8 +3362,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node123"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="141.1/-0.3/120.0" pan="-314.28" url="{node121}" title="" tilt="-0.29" skinid="ht_node" id="Point289"/>
       <hotspot description="" target="39.7/-12.8/90.0" pan="-42.94" url="{node124}" title="" tilt="-23.82" skinid="ht_node" id="Point289"/>
@@ -3379,8 +3388,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:21" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node124"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="45.9/-0.2/90.0" pan="-134.36" url="{node123}" title="" tilt="-21.85" skinid="ht_node" id="Point290"/>
       <hotspot description="" target="-21.2/-11.7/90.0" pan="-270.46" url="{node125}" title="" tilt="-5.97" skinid="ht_node" id="Point291"/>
@@ -3405,8 +3414,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:22" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node125"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-135.7/-12.2/90.0" pan="-74.73" url="{node124}" title="" tilt="-9.06" skinid="ht_node" id="Point292"/>
       <hotspot description="" target="-136.1/18.6/90.0" pan="-24.02" url="{node127}" title="" tilt="-4.41" skinid="ht_node" id="Point293"/>
@@ -3433,8 +3442,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="02.02.2023 10:51" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node126"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-67.2/-9.9/90.0" pan="-172.64" url="{node125}" title="" tilt="-0.4" skinid="ht_node" id="Point296"/>
     </hotspots>
@@ -3458,8 +3467,8 @@
       <max pan="360" fov="120" fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata description="" comment="" latitude="" customnodeid="" datetime="01.02.2023 18:22" heading="0" copyright="" source="" info="" title="" tags="7th_floor" longitude="" author="" nodeid="node127"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+    <hotspots height="0" wordwrap="1" width="270">
+      <label height="0" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="0" borderalpha="1" border="1" enabled="1" textcolor="0x000000" width="270"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="2" bordercolor="0x00ff00" borderalpha="1"/>
       <hotspot description="" target="-93.9/-15.3/90.0" pan="-72.98" url="{node125}" title="" tilt="-35.27" skinid="ht_node" id="Point294"/>
       <hotspot description="О телескопе" target="" pan="-141.99" url="" title="Телескоп" tilt="3.5" skinid="ht_info" id="Point01"/>
