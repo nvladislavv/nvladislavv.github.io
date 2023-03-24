@@ -9,6 +9,8 @@
       <level preload="1" width="322" height="322" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
+
+    
     <view fovmode="0" pannorth="0">
       <start pan="0" fov="130" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>

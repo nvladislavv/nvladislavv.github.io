@@ -2,6 +2,8 @@
 // Pano2VR 6.1.9/17983 HTML5/CSS3 & WebGL Panorama Player           //
 // License: BKYM.COM                                                //
 // (c) 2020, Garden Gnome Software, http://ggnome.com               //
+
+
 //////////////////////////////////////////////////////////////////////
 
 var ll="function"==typeof Object.defineProperties?Object.defineProperty:function(x,p,m){x!=Array.prototype&&x!=Object.prototype&&(x[p]=m.value)},nl="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this;function ol(x,p){if(p){var m=nl;x=x.split(".");for(var d=0;d<x.length-1;d++){var c=x[d];c in m||(m[c]={});m=m[c]}x=x[x.length-1];d=m[x];p=p(d);p!=d&&null!=p&&ll(m,x,{configurable:!0,writable:!0,value:p})}}var ul;
